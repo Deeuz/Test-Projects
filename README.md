@@ -1,2 +1,2 @@
 # Test-Projects
-Here are my development projects on HTML, CSS, and Javascript from my local computer.
+These are the HTML, CSS, and Javascript projects I've been working on...
